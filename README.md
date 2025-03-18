@@ -1,6 +1,6 @@
 # MessagePushTest
 
-Este proyecto es un ejemplo práctico que muestra cómo implementar notificaciones push en Android mediante Firebase Cloud Messaging (FCM). Se ha desarrollado aplicando el patrón MVVC (Modelo - Vista - VistaModelo) y los principios de Clean Architecture, separando las responsabilidades en capas (Data, Domain y Presentation). Además, se utiliza un catálogo de versiones (libsVersion) para administrar las dependencias del proyecto.
+Este proyecto es un ejemplo práctico que muestra cómo implementar notificaciones push en Android mediante Firebase Cloud Messaging (FCM). Se ha desarrollado aplicando el patrón MVVM (Modelo - Vista - VistaModelo) y los principios de Clean Architecture, separando las responsabilidades en capas (Data, Domain y Presentation). Además, se utiliza un catálogo de versiones (libsVersion) para administrar las dependencias del proyecto.
 
 ## Tabla de Contenidos
 
