@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "13954087074",
+    "project_id": "messages-push-test",
+    "storage_bucket": "messages-push-test.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13954087074:android:0429f4cc4bea8247b7bffb",
+        "android_client_info": {
+          "package_name": "com.orbi.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgVXv8IQBS7fG5HqTxQQ5txGtloG4hu9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
